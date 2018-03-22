@@ -3,7 +3,7 @@
   [
     {
       "rack_cap": [10],
-      "numLargeMachineRacks": 2,
+      "numLargeMachineRacks": 1,
       "queue": [],
       "machines": []
     },
